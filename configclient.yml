@@ -1,4 +1,4 @@
 myuser:
-  name:李玉峰
-  age:24
-  gender:男
+  -name:李玉峰
+  -age:24
+  -gender:男
